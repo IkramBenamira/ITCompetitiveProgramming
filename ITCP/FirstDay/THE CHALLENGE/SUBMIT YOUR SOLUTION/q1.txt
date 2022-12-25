@@ -1,0 +1,10 @@
+
+C:\Users\Dell>mkdir ITCP
+
+C:\Users\Dell>cd ITCP
+
+C:\Users\Dell\ITCP>mkdir tmp
+
+C:\Users\Dell\ITCP>cd tmp
+
+C:\Users\Dell\ITCP\tmp>touch SHARING-IS-CARING
